@@ -1,0 +1,4 @@
+date 2016-07-16 name:lvyi
+1.用matlab编写get_average_var.m文件，其中get_average_var（path）函数通过path(数据文件路径，date.txt是数据文件)返回两个一维数组，
+即平均值和方差，同时自动将结果写入_result.txt文件，并画出概率密度曲线，并自动生成五张图片文件。
+2.visual studio2010上配置mysql环境，RollLib项目成功编译和运行。
